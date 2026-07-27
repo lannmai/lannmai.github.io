@@ -217,6 +217,8 @@ kramdown:
 include: ["_pages"]
 exclude:
   - al-folio-upgrade-report.md
+  - _blog/
+  - _books/
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
